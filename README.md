@@ -1,5 +1,5 @@
 # Hi there 👋
-## I am Maxim Naomikka and this is my profile.
+## I am Maxim Vainikka and this is my profile.
 
 ## I am a single boy with a passion to code and genshin impact. You can ask me about anything, I would be happy to answer your question
 ## You can find me in discord: Nao#0461
