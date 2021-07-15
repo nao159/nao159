@@ -1,4 +1,10 @@
 ### Hi there 👋
+## I am Maxim Naomikka and this is my profile.
+
+## I am a single boy with a passion to code and genshin impact. You can ask me about anything, I would be happy to answer your question
+## You can find me in discord: Nao#0461
+
+# P.S. If you are interested in, my favorite character is Mai [Mai] (https://i.pinimg.com/564x/7f/d5/e3/7fd5e39a7d822ca2328c7a3b233e104d.jpg)
 
 <!--
 **nao159/nao159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
